@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ph1ncyn and I'm a developer, from Russia</p>
+<p align="left">My name is ph1ncyn and I'm a developer PWin11, from Russia</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ I create programs for Windows<br>📚 I like to develop in the programming of programs and games.<br>🎯Goals: 1. Become a geek in the field of C# and Winapi 3, as well as Unity. 2. Get to know github better<br>🎲 Fun fact: i'm love JetBrains Rider</p>
+<p align="left">✨ I create programs for Windows<br>📚 I like to develop in the programming of programs and games.<br>🎯Goals: 1. Become a geek in the field of C# and WinUI 3, as well as Unity. 2. Get to know github better<br>🎲 Fun fact: i'm love JetBrains Rider</p>
 
 ###
 
