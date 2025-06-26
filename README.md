@@ -39,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+    <img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" height="30" alt="arch"  />
 </div>
 
 ###
