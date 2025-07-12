@@ -1,12 +1,15 @@
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://github.com/PWin11-Tweaker/PWin11-Tweaker/blob/main/PWin11%20Tweaker's/Assets/icon4.png?raw=true" alt="Logo" width="80" height="80">
+<img src="https://github.com/PWin11-Tweaker/PWin11-Tweaker/blob/main/img/bg.png?raw=true" alt="Logo" width="150" height="150">
 </a>
-<h3 align="center">PWin11</h3>
 <p align="center">
 Series of projects
 <br/>
 <br/>
 <a href="https://github.com/PWin11-Tweaker/PWin11-Tweaker"><strong>PWin11 Tweaker</strong></a>
+<strong>•</strong>
+<a href="https://github.com/PWin11-Tweaker/PWin11-Tweaker.github.io"><strong>PWin11 Website</strong></a>
+<strong>•</strong>
+<a href="https://github.com/PWin11-Tweaker/PWin11-Uninstaller"><strong>PWin11 Uninstaller(Coming Soon)</strong></a>
 <br/>
 </p>
