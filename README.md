@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/PWin11-Tweaker/.github/blob/main/profile/wiki.png?raw=true" alt="Logo" width="150" height="150">
+<img src="https://github.com/ph1ncyn/ph1ncyn/blob/main/book.png?raw=true" alt="Logo" width="150" height="150">
 <br/>
 <br/>
 <strong>PWin11</strong>
