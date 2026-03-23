@@ -1,3 +1,5 @@
+<img src="https://assets.prod.foundation.app/resized/MHg3QzFiZDQ1OWRhZThlQzBCYjQ1RkUzMTcyRmQ1OEEyQjUzOTcyZTVDLzIvbmZ0LmdpZg__w1200-h1200.webp" alt="banner" width="1200" height="1200" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eugene
 ===============================================================================================================================
 
@@ -22,6 +24,7 @@ I program in Python and React to create a better neural network.
 <p align="left"> <a href="https://www.github.com/ph1ncyn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.dev.to/ph2ncyn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a></p>
 <a href="https://www.github.com/ph1ncyn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ph1ncyn?logo=github&style=for-the-badge&color=000000&labelColor=27272a" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
