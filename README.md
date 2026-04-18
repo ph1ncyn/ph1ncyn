@@ -1,6 +1,4 @@
-<img src="https://assets.prod.foundation.app/resized/MHg3QzFiZDQ1OWRhZThlQzBCYjQ1RkUzMTcyRmQ1OEEyQjUzOTcyZTVDLzIvbmZ0LmdpZg__w1200-h1200.webp" alt="banner" width="1200" height="1200" />
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eugene
+Hi My name is Eugene
 ===============================================================================================================================
 
 I am an AI developer
